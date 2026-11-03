@@ -37,8 +37,9 @@ I'm a **Junior Full-Stack Developer at KFS Group**, and in my own time I run **[
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Szabolcs05&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&ring_color=7C5CFF&border_radius=16" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szabolcs05&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=E6E9F5&border_radius=16" alt="Top languages"/>
+<img src="https://img.shields.io/github/followers/Szabolcs05?style=for-the-badge&color=151B3B&labelColor=0B1020&logo=github&logoColor=A78BFA" alt="Followers"/>
+<img src="https://img.shields.io/badge/Public_repos-60%2B-151B3B?style=for-the-badge&labelColor=0B1020&logo=git&logoColor=22D3EE" alt="Repos"/>
+<img src="https://img.shields.io/github/languages/top/Szabolcs05/elixirguard?style=for-the-badge&color=151B3B&labelColor=0B1020&logo=go&logoColor=22D3EE" alt="Top language"/>
 
 <img src="https://streak-stats.demolab.com?user=Szabolcs05&hide_border=true&background=0B1020&ring=7C5CFF&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E6E9F5&currStreakNum=E6E9F5&sideNums=E6E9F5&dates=8D96B8&border_radius=16" alt="Streak"/>
 
@@ -48,10 +49,40 @@ I'm a **Junior Full-Stack Developer at KFS Group**, and in my own time I run **[
 
 <div align="center">
 
-<a href="https://github.com/Szabolcs05/BedrockShield"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Szabolcs05&repo=BedrockShield&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&border_radius=16"/></a>
-<a href="https://github.com/Szabolcs05/elixirguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Szabolcs05&repo=elixirguard&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&border_radius=16"/></a>
-<a href="https://github.com/Szabolcs05/HySpawn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Szabolcs05&repo=HySpawn&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&border_radius=16"/></a>
-<a href="https://github.com/Szabolcs05/pumpkin-java-wrapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Szabolcs05&repo=pumpkin-java-wrapper&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&border_radius=16"/></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[BedrockShield](https://github.com/Szabolcs05/BedrockShield)**<br/>
+<sub>Minecraft-focused XDP/eBPF firewall with live traffic analysis and Discord alerts.</sub><br/><br/>
+<img src="https://img.shields.io/badge/Go-151B3B?style=flat-square&labelColor=0B1020&logo=go&logoColor=22D3EE"/> <img src="https://img.shields.io/github/stars/Szabolcs05/BedrockShield?style=flat-square&color=151B3B&labelColor=0B1020&logo=github&logoColor=A78BFA"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[elixirguard](https://github.com/Szabolcs05/elixirguard)**<br/>
+<sub>DDoS-protection proxy for Minecraft servers. One Go binary, one YAML file.</sub><br/><br/>
+<img src="https://img.shields.io/badge/Go-151B3B?style=flat-square&labelColor=0B1020&logo=go&logoColor=22D3EE"/> <img src="https://img.shields.io/github/stars/Szabolcs05/elixirguard?style=flat-square&color=151B3B&labelColor=0B1020&logo=github&logoColor=A78BFA"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[HySpawn](https://github.com/Szabolcs05/HySpawn)**<br/>
+<sub>Lightweight, Folia-compatible spawn management plugin for Paper servers.</sub><br/><br/>
+<img src="https://img.shields.io/badge/Java-151B3B?style=flat-square&labelColor=0B1020&logo=openjdk&logoColor=22D3EE"/> <img src="https://img.shields.io/github/stars/Szabolcs05/HySpawn?style=flat-square&color=151B3B&labelColor=0B1020&logo=github&logoColor=A78BFA"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[pumpkin-java-wrapper](https://github.com/Szabolcs05/pumpkin-java-wrapper)**<br/>
+<sub>Run the native Pumpkin Minecraft server through a Java JAR.</sub><br/><br/>
+<img src="https://img.shields.io/badge/Java-151B3B?style=flat-square&labelColor=0B1020&logo=openjdk&logoColor=22D3EE"/> <img src="https://img.shields.io/github/stars/Szabolcs05/pumpkin-java-wrapper?style=flat-square&color=151B3B&labelColor=0B1020&logo=github&logoColor=A78BFA"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
