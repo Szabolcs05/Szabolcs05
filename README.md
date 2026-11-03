@@ -48,9 +48,10 @@ I'm a **Junior Full-Stack Developer at KFS Group**, and in my own time I run **[
 
 <div align="center">
 
-<!-- Replace REPO_NAME with your public repos (copy this line for each one) -->
-<a href="https://github.com/Szabolcs05/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Szabolcs05&repo=REPO_NAME&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&border_radius=16"/></a>
-<a href="https://github.com/Szabolcs05/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Szabolcs05&repo=REPO_NAME&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&border_radius=16"/></a>
+<a href="https://github.com/Szabolcs05/BedrockShield"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Szabolcs05&repo=BedrockShield&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&border_radius=16"/></a>
+<a href="https://github.com/Szabolcs05/elixirguard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Szabolcs05&repo=elixirguard&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&border_radius=16"/></a>
+<a href="https://github.com/Szabolcs05/HySpawn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Szabolcs05&repo=HySpawn&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&border_radius=16"/></a>
+<a href="https://github.com/Szabolcs05/pumpkin-java-wrapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Szabolcs05&repo=pumpkin-java-wrapper&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=22D3EE&text_color=E6E9F5&border_radius=16"/></a>
 
 </div>
 
